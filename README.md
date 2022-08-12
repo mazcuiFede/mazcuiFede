@@ -1,7 +1,5 @@
 👋 Hi, I’m @mazcuiFede!!
 
-🇪🇸 Spanish, 🇦🇷 Argentinian and 🧑‍💻 Geek
-
 In my repo, you can find projects created based on courses or personal challenges or ideas. 
 If you have any suggestion, please send me an email at matias.azcui@gmail.com.
 
